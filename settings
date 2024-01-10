@@ -1,0 +1,55 @@
+{
+	 // "font_face": "Operator Mono Book",
+     "font_face":"Fira Code",
+    "font_size": 11,
+        "trim_trailing_white_space_on_save": true,
+    "save_on_focus_lost": true,
+    "highlight_line": false,
+    "highlight_modified_tabs":true,
+    "caret_style": "phase",
+    "line_numbers": false,
+        "mini_diff": false,
+        "indent_subsequent_lines": false,
+            /*"highlight_line": false,*/
+    "line_padding_top": 10,
+    "line_padding_bottom": 10,
+    "draw_centered": true,
+    "word_wrap": true,
+    "smart_indent": true,
+    "spell_check": false,
+    "tab_size": 4,
+    "theme": "Material-Theme-Darker.sublime-theme",
+    "theme_font_options": "Fira Code",
+    "margin": 20,
+    "caret_extra_top": 12,
+    "hide_tab_scrolling_buttons": true,
+    /*"word_wrap": true,*/
+    "scroll_past_end": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+    "styles": [
+        {
+            "mark_style": "none",
+            "priority": 1,
+            "scope": "region.orangish",
+            "icon": "warning",
+            "types": [
+                "warning"
+            ],
+        },
+        {
+            "mark_style": "none",
+            "priority": 1,
+            "scope": "region.redish",
+            "icon": "error",
+            "types": [
+                "error"
+            ],
+        }
+    ],
+	/*"theme": "Monokai Pro (Filter Octagon).sublime-theme",*/
+   "ignored_packages":
+   [
+		"Vintage",
+    ],
+    "index_files": true,
+}
