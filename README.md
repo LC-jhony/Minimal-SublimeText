@@ -23,7 +23,9 @@ It focuses on minimizing distractions, reducing mouse usage and optimizing the o
 -    Theme Material theme
 ```
 **2. Install ** [Material Theme](https://github.com/SublimeText/material-theme)**Theme**
+
 **3. Install** [Fira Code](https://github.com/tonsky/FiraCode)**Font**
+
 **4.** Copy the contents of [settings](https://github.com/LC-jhony/Minimal-SublimeText/blob/main/settings) to your settings file (search Preferences: Open Settings (JSON) using the Command Palette).
 
 ## Screenshots
