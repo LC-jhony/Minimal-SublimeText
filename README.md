@@ -1,9 +1,12 @@
 ![](https://github.com/LC-jhony/Minimal-SublimeText/blob/main/src/img_4.png?raw=true)
 ###Minimal-SublimeText
 
-Sublime text minimalist configuration
+Minimalist Sublime Text configuration and extension installation, tweaks that turn Sublime Text into a minimal and productive development environment.
 
-  		lista de plugins utilizados para esta configuracion
+It focuses on minimizing distractions, reducing mouse usage and optimizing the overall workflow.
+
+**  1. lista de plugins utilizados para esta configuracion**
+```bash
 -    A File Icon 
 -    AdvancedNewFile 
 -    EditorConfig
@@ -18,10 +21,9 @@ Sublime text minimalist configuration
 -    SublimeLinter-php
 -    TailwindCSS 
 -    Theme Material theme
-
-###Images
-
-	Install [**Material Theme**] Theme(http://github.com/SublimeText/material-theme "Material Theme")
+```
+**2. Install ** [Material Theme](https://github.com/SublimeText/material-theme)**Theme**
+**3. Install** [Fira Code](https://github.com/tonsky/FiraCode)**Font**
 
 ## Screenshots
 
@@ -31,3 +33,4 @@ Sublime text minimalist configuration
 ![](https://github.com/LC-jhony/Minimal-SublimeText/blob/main/src/img_1.png?raw=true)
 
 ![](https://github.com/LC-jhony/Minimal-SublimeText/blob/main/src/img_3.png?raw=true)
+
