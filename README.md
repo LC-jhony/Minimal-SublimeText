@@ -1,11 +1,11 @@
 ![](https://github.com/LC-jhony/Minimal-SublimeText/blob/main/src/img_4.png?raw=true)
-### Minimal-SublimeText
+# Minimal-SublimeText
 
 Minimalist Sublime Text configuration and extension installation, tweaks that turn Sublime Text into a minimal and productive development environment.
 
 It focuses on minimizing distractions, reducing mouse usage and optimizing the overall workflow.
 
-**1. lista de plugins utilizados para esta configuracion**
+ # **1. lista de plugins utilizados para esta configuracion**
 ```bash
 -    A File Icon 
 -    AdvancedNewFile 
@@ -31,7 +31,6 @@ It focuses on minimizing distractions, reducing mouse usage and optimizing the o
 ## Screenshots
 
 ![](https://github.com/LC-jhony/Minimal-SublimeText/blob/main/src/img_2.png?raw=true)
-> Follow your heart.
 
 ![](https://github.com/LC-jhony/Minimal-SublimeText/blob/main/src/img_1.png?raw=true)
 
