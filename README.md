@@ -22,7 +22,7 @@ It focuses on minimizing distractions, reducing mouse usage and optimizing the o
 -    TailwindCSS 
 -    Theme Material theme
 ```
-**2. Install ** [Material Theme](https://github.com/SublimeText/material-theme)**Theme**
+**2. Install** [Material Theme](https://github.com/SublimeText/material-theme)**Theme**
 
 **3. Install** [Fira Code](https://github.com/tonsky/FiraCode)**Font**
 
